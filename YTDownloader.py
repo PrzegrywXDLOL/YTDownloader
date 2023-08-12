@@ -22,8 +22,6 @@ if czyok == "T" or czyok == "t":
     print("Pobieranie...")
     ys.download("Pobrane filmy")
     print("Pobieranie zakończone!!")
-    i = input()
 
 elif czyok == "N" or czyok == "n":
     print("Zamykam program")
-    i = input()
